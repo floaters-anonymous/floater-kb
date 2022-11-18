@@ -3,7 +3,9 @@
 
 
 ### Reference:
-[^esk8_diy-onewheel-hoverboard]: ((https://forum.esk8.news/t/diy-onewheel-hoverboard/18862))
+
+* [1wheel on Gitbook.io](https://app.gitbook.com/invite/CAI2PvcEBO6EQLwSDjOW/N7ftWtxnJP35ZuZ7ps1O)
+* [esk8_diy-onewheel-hoverboard](https://forum.esk8.news/t/diy-onewheel-hoverboard/18862)
 
 
 ## License
