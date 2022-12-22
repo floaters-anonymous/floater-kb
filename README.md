@@ -1,6 +1,6 @@
-[!img:](https://gitlab.com/uploads/-/system/project/avatar/41185754/onewheel_xr.jpg)
+![BalanceBoard](https://gitlab.com/uploads/-/system/project/avatar/41185754/onewheel_xr.jpg)
 # floaters-anonymous
-
+## floating knowledge base / resources
 
 ### Reference:
 
