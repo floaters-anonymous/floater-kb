@@ -8,6 +8,14 @@
 * [esk8_diy-onewheel-hoverboard](https://forum.esk8.news/t/diy-onewheel-hoverboard/18862)
 
 
+### VESC terminal reference
+
+* show hall sensor raw data
+  ```c
+  Hall_analyze 10
+  ```
+
+
 ### Other Links
 * (https://pev.dev/t/faq-batteries-wiki/92)
 * (https://pev.dev/t/vesc-xr-step-by-step-conversion-guide/105)
