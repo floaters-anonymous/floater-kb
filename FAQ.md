@@ -1,6 +1,11 @@
 FAQ
 ===
 
+### Batteries
+
+  * ((https://pev.dev/t/battery-pack-primer/366))
+
+
 ### VESC
 
   * How to create csv logs in VESC
