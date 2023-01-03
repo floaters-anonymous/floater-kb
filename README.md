@@ -7,14 +7,29 @@
 
 
 ### Other Links
-* (https://pev.dev/t/faq-batteries-wiki/92)
-* (https://pev.dev/t/vesc-xr-step-by-step-conversion-guide/105)
-* (https://pev.dev/t/connecting-to-pc-vesc-tool-with-bluetooth-how-to/291)
-* (https://pev.dev/t/guide-how-to-wire-fm-bms-as-charge-only-for-your-vesc/322/3)
-* (https://pev.dev/t/bluetooth-module-wiring-diagram-nrf51822/137)
-* (https://pev.dev/t/how-to-guides-for-basic-tasks/341)
-* (https://pev.dev/t/flash-vesc-bootloader-firmware-with-st-link/453)
-* (https://customwheel.shop/blog/manual-how-to-install-your-controller)
+  * [vesc-project - VESC_tool](https://vesc-project.com/vesc_tool)
+  * [pev.dev - faq-batteries-wiki](https://pev.dev/t/faq-batteries-wiki/92)
+  * [pev.dev - vesc-xr-step-by-step-conversion-guide](https://pev.dev/t/vesc-xr-step-by-step-conversion-guide/105)
+  * [pev.dev - connecting-to-pc-vesc-tool-with-bluetooth-how-to](https://pev.dev/t/connecting-to-pc-vesc-tool-with-bluetooth-how-to/291)
+  * [pev.dev - guide-how-to-wire-fm-bms-as-charge-only-for-your-vesc](https://pev.dev/t/guide-how-to-wire-fm-bms-as-charge-only-for-your-vesc/322/3)
+  * [pev.dev - bluetooth-module-wiring-diagram-nrf51822](https://pev.dev/t/bluetooth-module-wiring-diagram-nrf51822/137)
+  * [pev.dev - how-to-guides-for-basic-tasks](https://pev.dev/t/how-to-guides-for-basic-tasks/341)
+  * [pev.dev - flash-vesc-bootloader-firmware-with-st-link (firmware recovery)](https://pev.dev/t/flash-vesc-bootloader-firmware-with-st-link/453)
+  * [customwheel.shop - manual-how-to-install-your-controller](https://customwheel.shop/blog/manual-how-to-install-your-controller)
+
+
+### Random Links
+  * ((https://www.flowglider.com))
+  * ((https://www.makerspev.com))
+  * ((https://customwheel.shop))
+  * ((https://fungineers.tech))
+  * ((https://www.badgerwheel.com))
+  * ((https://onewheelrider.eu))
+  * ((https://chibatterysystems.com))
+  * ((https://plasticspider.com/vesc-parts))
+  * ((https://www.littimber.com/shop))
+  * ((https://vesc-project.com/vesc_tool))
+  * ((https://www.ennoid.me/bms/xlite))
 
 
 ### Other Reference:
