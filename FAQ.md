@@ -36,3 +36,5 @@ FAQ
     > Multimeter should report voltages from 0v to 5v
 
 
+#### rESCue with NeoPixels
+  * ![img: neopixel with rESCue](https://raw.githubusercontent.com/thankthemaker/rESCue/master/docs/images/neopixel-wiring.png)
