@@ -20,7 +20,9 @@ FAQ
     > I work with CAN in lots of OTHER applications that being said when you have more than 2 devices you need to assign which are the terminators (120 ohm resistors) hope this helps
 
 
-#### Hall Sensors:
+#### Motor Hall Sensors:
+
+  * [Motor Setup](https://pev.dev/t/how-to-configure-motor/486)
 
   * testing sensors ((https://youtu.be/5WpwJNKCEnY))
     > figure out/trace the 5v/ground/signal, then power the 5v and ground via bench power supply 
