@@ -11,6 +11,16 @@ FAQ
   * How to create csv logs in VESC
     ((https://pev.dev/t/how-to-create-csv-logs/436))
 
+  * IMU calibration - [excellent IMU calibration video](https://www.youtube.com/watch?v=vVvjHY5lFLs)
+    * once IMU accel/gyro is setup and yaw offset is correct
+      * LFOCer 3.0 - yaw offset == 0
+      * LFOCer 3.1 - yaw offset == 90*
+    * Pitch - positive values expected when "nose up/high"
+    * Pitch - negative values expected when "nose down/low"
+    * Corrections:
+      * if pitch values are reversed, yaw offset needs to be offset by another 180*
+      * Example: (for LFOC3.1) yaw offset should be changed to -90* or 270*
+
 
 ### VESC Terminal functions
 
