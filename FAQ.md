@@ -38,6 +38,7 @@ FAQ
 #### Motor Hall Sensors:
 
   * [Motor Setup](https://pev.dev/t/how-to-configure-motor/486)
+  * [What is a Hall Sensor?](https://ie.rs-online.com/web/generalDisplay.html?id=ideas-and-advice/hall-effect-sensors-guide)
 
   * testing sensors ((https://youtu.be/5WpwJNKCEnY))
     > figure out/trace the 5v/ground/signal, then power the 5v and ground via bench power supply 
