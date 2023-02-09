@@ -23,7 +23,7 @@
   * [https://www.flowglider.com](https://www.flowglider.com)
   * [https://www.makerspev.com](https://www.makerspev.com)
   * [https://customwheel.shop](https://customwheel.shop)
-  * [https://fungineers.tech](https://fungineers.tech)
+  * [https://fungineers.us](https://fungineers.us)
   * [https://www.badgerwheel.com](https://www.badgerwheel.com)
   * [https://onewheelrider.eu](https://onewheelrider.eu)
   * [https://chibatterysystems.com](https://chibatterysystems.com)
