@@ -16,21 +16,6 @@
   * [pev.dev - how-to-guides-for-basic-tasks](https://pev.dev/t/how-to-guides-for-basic-tasks/341)
   * [pev.dev - flash-vesc-bootloader-firmware-with-st-link (firmware recovery)](https://pev.dev/t/flash-vesc-bootloader-firmware-with-st-link/453)
   * [customwheel.shop - manual-how-to-install-your-controller](https://customwheel.shop/blog/manual-how-to-install-your-controller)
-  * [MAXKGO - LED controller](https://maxkgo.com/collections/led-controller)
-
-
-### Random Links
-  * [https://www.flowglider.com](https://www.flowglider.com)
-  * [https://www.makerspev.com](https://www.makerspev.com)
-  * [https://customwheel.shop](https://customwheel.shop)
-  * [https://fungineers.us](https://fungineers.us)
-  * [https://www.badgerwheel.com](https://www.badgerwheel.com)
-  * [https://onewheelrider.eu](https://onewheelrider.eu)
-  * [https://chibatterysystems.com](https://chibatterysystems.com)
-  * [https://plasticspider.com/vesc-parts](https://plasticspider.com/vesc-parts)
-  * [https://www.littimber.com/shop](https://www.littimber.com/shop)
-  * [https://vesc-project.com/vesc_tool](https://vesc-project.com/vesc_tool)
-  * [https://www.ennoid.me/bms/xlite](https://www.ennoid.me/bms/xlite)
 
 ### VESC Setup / Configuration
 * [ IMU Wizard Rough Guide - VESC Tool 6.0 ](https://www.youtube.com/watch?v=vVvjHY5lFLs)
@@ -39,7 +24,6 @@
 
 * [1wheel on Gitbook.io](https://app.gitbook.com/invite/CAI2PvcEBO6EQLwSDjOW/N7ftWtxnJP35ZuZ7ps1O)
 * [esk8_diy-onewheel-hoverboard](https://forum.esk8.news/t/diy-onewheel-hoverboard/18862)
-
 
 
 ## License
