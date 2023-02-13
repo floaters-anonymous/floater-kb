@@ -6,6 +6,9 @@
 
 * [VESC v6.0 firmware upgrade - step by step (@surfdado#3539)](https://www.youtube.com/watch?v=FDnh1lH7LXU)
 
+* If vesc_tool doesn't automatically recognize your controller, check here for
+  additional firmware binaries: [vesc_fw_archive](http://home.vedder.se/vesc_fw_archive/6.00/)
+
 ## MotorCfg
 
 * [DIY Onewheel Setup with 6.0 VESC Firmware (@surfdado#3539)](https://www.youtube.com/watch?v=V7h2R3hKK4Y)
