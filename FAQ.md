@@ -55,3 +55,18 @@ FAQ
   * This very specific connector seems to be consistently availabile from [Newark](https://www.newark.com/neutrik/nc3mpr-hd/xlr-audio-connector-plug-3-panel/dp/31M5702)
     see Newark product page, [item# 31M5702](https://www.newark.com/neutrik/nc3mpr-hd/xlr-audio-connector-plug-3-panel/dp/31M5702)
 
+### XR Components
+Official Specs (from [onewheel.wiki](onewheel.wiki))
+
+  > MOTOR : 750W Hypercore hub motor
+  > BATTERY : Nickel Manganese Cobalt Oxide (NMC) 324Wh 63V
+  > SENSORS : Solid State MEMS 6-DOF
+  > TIRE : 11.5×6.5-6 Vega
+  > MAX LEAN ANGLE : >30 degrees
+  > TOP SPEED : 19MPH / 30KPH
+  > TYPICAL RANGE : 12-18 MI / 19-29 KM
+  > DIMENSIONS : 9×11.5×30 (IN) / 23x29.21x72.6 (CM)
+  > WEIGHT : 27 LB / 12.5 KG
+  > RECHARGE TIME : 100 mins* (FY6303200 charger)
+
+
