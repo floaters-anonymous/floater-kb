@@ -8,6 +8,7 @@
 
 ### Other Links
   * [vesc-project - VESC_tool](https://vesc-project.com/vesc_tool)
+  * [vesc-project - Documentation](https://vesc-project.com/)
   * [pev.dev - faq-batteries-wiki](https://pev.dev/t/faq-batteries-wiki/92)
   * [pev.dev - vesc-xr-step-by-step-conversion-guide](https://pev.dev/t/vesc-xr-step-by-step-conversion-guide/105)
   * [pev.dev - connecting-to-pc-vesc-tool-with-bluetooth-how-to](https://pev.dev/t/connecting-to-pc-vesc-tool-with-bluetooth-how-to/291)
